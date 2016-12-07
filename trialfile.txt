@@ -1,0 +1,1 @@
+This is a trial text file to learn how to use git and github.
